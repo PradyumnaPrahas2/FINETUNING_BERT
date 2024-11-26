@@ -8,5 +8,5 @@ This repository contains the code and resources for fine-tuning the BERT model o
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/bert-finetuning-squad.git
+   git clone https://github.com/PradyumnaPrahas2/FINETUNING_BERT.git
    cd bert-finetuning-squad
