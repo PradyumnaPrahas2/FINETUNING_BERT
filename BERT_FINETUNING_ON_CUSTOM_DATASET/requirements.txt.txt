@@ -1,0 +1,4 @@
+transformers>=4.31.0
+simpletransformers>=0.63.0
+torch>=2.0.0
+numpy>=1.23.0
