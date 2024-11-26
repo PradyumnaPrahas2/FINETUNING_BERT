@@ -1,10 +1,13 @@
 # Repository Structure
-Finetuning_BERT/                                                                                                                    
+Finetuning_BERT/                                                                                                                       
+|----BERT_Architecture/
+|                 |--------BERT_architecture.ipynb                                                                                           
+|
 |----Finetuning_On_SQuAD/                                                                                                       
-|        |------- LLM_finetuning.ipynb                                                                                           
+|                |------- LLM_finetuning.ipynb                                                                                           
 |                                                                                                                                   
 |----Finetuning_On_Custom_Dataset/                                                                                                  
-|        |------- Finetuning_onCustom_dataset.ipynb                                                                                
+|                |------- Finetuning_onCustom_dataset.ipynb                                                                                
 ├── requirements.txt       # List of dependencies                                                                                   
 ├── README.md              # Project documentation                                                                                
 ├── LICENSE                # License file (optional)                                                                                
