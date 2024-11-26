@@ -1,14 +1,14 @@
 # Repository Structure
 Finetuning_BERT/                                                                                                                    
-|----Finetuning_On_SQuAD/
-|        |------- LLM_finetuning.ipynb
-|
-|----Finetuning_On_Custom_Dataset/
-|        |------- Finetuning_onCustom_dataset.ipynb
-├── requirements.txt       # List of dependencies
-├── README.md              # Project documentation
-├── LICENSE                # License file (optional)
-└── .gitignore             # Files/folders to ignore in the repo
+|----Finetuning_On_SQuAD/                                                                                                       
+|        |------- LLM_finetuning.ipynb                                                                                           
+|                                                                                                                                   
+|----Finetuning_On_Custom_Dataset/                                                                                                  
+|        |------- Finetuning_onCustom_dataset.ipynb                                                                                
+├── requirements.txt       # List of dependencies                                                                                   
+├── README.md              # Project documentation                                                                                
+├── LICENSE                # License file (optional)                                                                                
+└── .gitignore             # Files/folders to ignore in the repo                                                                                                                   
 
 # FINETUNING_BERT
 Repository for fine-tuning BERT on SQuAD, training and usage pipelines, and implementation of Retrieval-Augmented Generation (RAG) for advanced QA systems.
