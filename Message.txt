@@ -1,0 +1,5 @@
+Download my model at:-
+To use my BERT model which is Finetuned on SQUAD Dataset go to this link
+-> https://huggingface.co/Pradyumna22/Finetuned-BERT-SQUAD?library=transformers
+To use my RAG Model for Cybersecurity Related Queries go to this link
+-> Use the RAG Code and download the faiss index from here => https://huggingface.co/Pradyumna22/RAG-model-for-Cyber-security/tree/main
